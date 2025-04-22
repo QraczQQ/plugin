@@ -1,5 +1,5 @@
 [plugin]
-Version = 20230524
-File = raczqq_channel_list_updater20230524.tar.gz
+Version = 20250422
+File = raczqq_channel_list_updater20250422.tar.gz
 Url = https://raw.githubusercontent.com/QraczQQ/plugin/refs/heads/main/version.txt
 MD5 = 000000000000000000000000
